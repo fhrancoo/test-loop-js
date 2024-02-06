@@ -15,10 +15,10 @@ Simple test for loop js.
 
 - Vanilla JavaScript
 
-## 👉 Objective
+## 🎯 Objective
  - Test all loops
 
-## 👉 Conclusions
+## 💡 Conclusions
 **Top loops.**
 1. *for* 🚀
 4. *while* 😃
